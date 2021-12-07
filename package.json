@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "bignumber.js": "^9.0.1",
+    "dotenv": "^10.0.0",
+    "limiter": "^2.0.1",
+    "opensea-js": "^1.2.2",
+    "web3": "^1.6.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  }
+}
